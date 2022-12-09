@@ -1,0 +1,11 @@
+name: base83
+description: Base83 encoding and decoding for dart using dart:convert interface.
+version: 1.0.0
+repository: https://github.com/xclud/dart_base83
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.22.0
