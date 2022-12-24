@@ -1,6 +1,10 @@
 [![pub package](https://img.shields.io/pub/v/base83.svg)](https://pub.dartlang.org/packages/base83)
 
-Base83 encoding and decoding for dart using dart:convert interface.
+Blurhash & Base83 encoding and decoding for dart using dart:convert interface.
+
+## Web Demo
+
+[Web Demo](https://blurhash.pwa.ir)
 
 ## Getting Started
 

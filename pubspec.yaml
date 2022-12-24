@@ -1,6 +1,6 @@
 name: base83
-description: Base83 encoding and decoding for dart using dart:convert interface.
-version: 1.0.0
+description: Blurhash & Base83 encoding and decoding for dart using dart:convert interface.
+version: 1.1.0
 repository: https://github.com/xclud/dart_base83
 
 environment:
