@@ -21,9 +21,11 @@ class MyApp extends StatelessWidget {
         inputDecorationTheme: const InputDecorationTheme(
           border: OutlineInputBorder(),
           alignLabelWithHint: true,
+          isDense: true,
         ),
         brightness: Brightness.dark,
         primarySwatch: Colors.blue,
+        useMaterial3: true,
       ),
       home: const HomePage(),
     );
